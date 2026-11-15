@@ -2,8 +2,7 @@
 [Tt]emp/
 [Oo]bj/
 [Ll]ogs/
-[Bb]uild/
-[Bb]uilds/
+
 .vs/
 UserSettings/
 *.csproj
@@ -14,5 +13,4 @@ UserSettings/
 .DS_Store
 Thumbs.db
 
-New folder (8)/
-New folder (8).zip
+
